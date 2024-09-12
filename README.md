@@ -25,4 +25,8 @@ Tables are:
 8) Passenger
 9) User
 10) Books
-    
+
+    Schema
+
+    <img width="619" alt="Screenshot 2024-09-12 at 2 03 15 PM" src="https://github.com/user-attachments/assets/ec073344-fd7c-40e4-9953-d00485405ab8">
+

@@ -14,13 +14,13 @@ pieces of information:
 • Passengers
 • Users (for online booking)
 • Books(To show bookings made by users)
-1) Train status table:<img width="689" alt="Screenshot 2024-09-12 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c51c15b9-252d-4b77-8c1b-6ba6772cf06a">
-2) 
-3) Train:
-4) Train Class:
-5) Route:
-6) Station:
-7) Passenger:
-8) User:
-9) Books:
-10) 
+1) Train status table:
+2) <img width="689" alt="Screenshot 2024-09-12 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c51c15b9-252d-4b77-8c1b-6ba6772cf06a">
+4) Train:
+5) Train Class:
+6) Route:
+7) Station:
+8) Passenger:
+9) User:
+10) Books:
+11) 

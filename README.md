@@ -14,12 +14,13 @@ pieces of information:
 • Passengers
 • Users (for online booking)
 • Books(To show bookings made by users)
-1) Train status table:
-4) Train:
-5) Train Class:
-6) Route:
-7) Station:
-8) Passenger:
-9) User:
-10) Books:
+Tables are:
+1) Train status table
+4) Train
+5) Train Class
+6) Route
+7) Station
+8) Passenger
+9) User
+10) Books
 11) 

@@ -15,7 +15,7 @@ pieces of information:
 • Users (for online booking)
 • Books(To show bookings made by users)
 1) Train status table:
-2) <img width="689" alt="Screenshot 2024-09-12 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c51c15b9-252d-4b77-8c1b-6ba6772cf06a">
+    <img width="689" alt="Screenshot 2024-09-12 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c51c15b9-252d-4b77-8c1b-6ba6772cf06a">
 4) Train:
 5) Train Class:
 6) Route:

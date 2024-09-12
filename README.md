@@ -14,6 +14,8 @@ pieces of information:
 • Passengers
 • Users (for online booking)
 • Books(To show bookings made by users)
+
+
 Tables are:
 1) Train status table
 4) Train
@@ -23,4 +25,4 @@ Tables are:
 8) Passenger
 9) User
 10) Books
-11) 
+    
